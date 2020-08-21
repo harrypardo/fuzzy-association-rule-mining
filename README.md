@@ -37,7 +37,7 @@ FPGrowth.print_result(rules)
 *  [**Reynaldo John Tristan Mahinay Jr.**](https://github.com/rjtmahinay)
 * **Franz Stewart Dizon**
 * [**Stephen Kyle Farinas**](https://github.com/kfpyzi)
-* **Harry Pardo**
+* [**Harry Pardo**](https://github.com/harrypardo)
 
 ## Results
 The results are showed in this link - [Comparison Result](https://github.com/rjtmahinay/learning-of-high-dengue-incidence/tree/master/results)
